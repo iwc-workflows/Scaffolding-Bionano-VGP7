@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2023-11-03T14:51:35.106883",
+            "datePublished": "2023-11-15T08:48:07.467425",
             "hasPart": [
                 {
                     "@id": "Scaffolding-BioNano-VGP7.ga"
@@ -64,7 +64,7 @@
             ],
             "creator": [
                 {
-                    "@id": "#6d9c2a43-54f4-46bf-9e93-0238df86d9d6"
+                    "@id": "#569db5dd-ef2b-4686-a44a-c06b76bbed17"
                 },
                 {
                     "@id": "https://vertebrategenomeproject.org"
@@ -75,7 +75,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/Scaffolding-Bionano-VGP7",
-            "version": "0.1"
+            "version": "0.1.1"
         },
         {
             "@id": "#galaxy",
@@ -90,7 +90,7 @@
             "version": "v19_09"
         },
         {
-            "@id": "#6d9c2a43-54f4-46bf-9e93-0238df86d9d6",
+            "@id": "#569db5dd-ef2b-4686-a44a-c06b76bbed17",
             "@type": "Organization",
             "name": "Galaxy"
         },
